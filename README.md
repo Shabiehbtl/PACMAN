@@ -1,6 +1,6 @@
 # Pacman Game
 
-A classic, retro-style **Pacman game** built from scratch using **Python**. 
+A classic, retro-style **Pacman game** built from scratch using **Java**. 
 
 Navigate the maze, eat all the pellets, and avoid the ghosts to get the highest score!
 
